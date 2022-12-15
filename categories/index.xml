@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Shiqi Ye</title>
+    <title>Categories on Shiqi Ye (叶仕奇)</title>
     <link>https://KuntingUSTC.github.io/categories/</link>
-    <description>Recent content in Categories on Shiqi Ye</description>
+    <description>Recent content in Categories on Shiqi Ye (叶仕奇)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://KuntingUSTC.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Development</title>
-      <link>https://KuntingUSTC.github.io/categories/development/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://KuntingUSTC.github.io/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://KuntingUSTC.github.io/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://KuntingUSTC.github.io/categories/golang/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://KuntingUSTC.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
