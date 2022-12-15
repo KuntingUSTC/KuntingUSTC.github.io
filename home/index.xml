@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Shiqi Ye (叶仕奇)</title>
+    <link>https://KuntingUSTC.github.io/home/</link>
+    <description>Recent content in Homes on Shiqi Ye (叶仕奇)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://KuntingUSTC.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://KuntingUSTC.github.io/home/about-me/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://KuntingUSTC.github.io/home/about-me/</guid>
+      <description>Shiqi Ye is a third-year joint Ph.D. student at the Chow Institute at Xiamen University and the Academy of Mathematics and Systems Science at Chinese Academy of Sciences.
+His research areas include econometrics, financial econometrics, climate economics, regional economics, and the Chinese economy.
+His current research is mainly focus on:
+Estimate high-dimensional time-varying coefficients vector-autoregressive models; Extend the matrix-valued autoregressive model to allow for multiple matrices; Investigate the impacts of climate risk on the expected growth and growth-at-risk in China; Construct the urban financial condition index, and examine its impact on the growth of housing prices; Combine a large DCC-GARCH model with MIDAS and construct a high-dimensional short- and long-term time-varying correlation network of financial markets.</description>
+    </item>
+    
+  </channel>
+</rss>

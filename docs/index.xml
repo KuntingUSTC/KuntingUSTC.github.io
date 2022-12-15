@@ -13,10 +13,18 @@
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://KuntingUSTC.github.io/docs/about-me/</guid>
-      <description>Shiqi Ye Hi, my name is Shiqi Ye. I&amp;rsquo;m a third-year Ph.D. student in the Paul Chow institute. I am grateful to be advised by Prof. Qibin Sun and Prof. Zheng-Jun Zha.
-Follow the following steps:
-Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:
-git clone https://github.com/spf13/hugocd hugo/path/to/where/you/installed/hugo server --source=./docs&amp;gt; 29 pages created&amp;gt; 0 tags index created&amp;gt; in 27 ms&amp;gt; Web Server is available at http://localhost:1313&amp;gt; Press ctrl+c to stopOnce you&amp;rsquo;ve gotten here, follow along the rest of this page on your local build.</description>
+      <description>Hi, my name is Shiqi Ye. I&amp;rsquo;m a third-year joint Ph.D. student at the Chow Institute at Xiamen University and the Academy of Mathematics and Systems Science at the Chinese Academy of Sciences. I am grateful to be advised by Prof. Tingguo Zheng, Prof. Yongmiao Hong, and Prof. Ming Lin.
+My research areas include econometrics, financial econometrics, climate economics, regional economics, and the Chinese economy.
+My current research is mainly focus on:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://KuntingUSTC.github.io/docs/publications/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://KuntingUSTC.github.io/docs/publications/</guid>
+      <description></description>
     </item>
     
   </channel>
