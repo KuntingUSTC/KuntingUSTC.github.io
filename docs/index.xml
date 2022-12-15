@@ -14,17 +14,31 @@
       
       <guid>https://KuntingUSTC.github.io/docs/about-me/</guid>
       <description>Hi, my name is Shiqi Ye. I&amp;rsquo;m a third-year joint Ph.D. student at the Chow Institute at Xiamen University and the Academy of Mathematics and Systems Science at Chinese Academy of Sciences. I am grateful to be advised by Prof. Tingguo Zheng, Prof. Yongmiao Hong, and Prof. Ming Lin.
-My research areas include econometrics, financial econometrics, climate economics, regional economics, and the Chinese economy.
+My research areas include econometrics, financial econometrics, climate economics, regional economics, energy economics, and the Chinese economy.
 My current research is mainly focus on:</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://KuntingUSTC.github.io/docs/publications/</link>
+      <link>https://KuntingUSTC.github.io/docs/experience/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://KuntingUSTC.github.io/docs/publications/</guid>
-      <description></description>
+      <guid>https://KuntingUSTC.github.io/docs/experience/</guid>
+      <description>Education P.h.D. Econometrices, Chow Institue, 2024 (expected). M.A. Econometrices and Applied Econometrices, University of Southern California, 2020. B.A. Mathematics and Applied Mathematics, University of Science and Technology of China, 2018. </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://KuntingUSTC.github.io/docs/research/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://KuntingUSTC.github.io/docs/research/</guid>
+      <description>Published Papers “Attention-aware Multi-hop Trust Inference in Online Social Networks”
+(with Rongwei Xu, Guanfeng Liu, Xianmei Hua, Xuyun Zhang, and Junwen Lu).
+&amp;mdash;International Conference on Data Science and Advanced Analytics, (2022) Working Papers “Fast Estimation of a Large TVP-VAR Model with Score-Driven Volatilities”
+(with Tingguo Zheng and Yongmiao Hong). “Cholesky GAS Models for Large Time-varying Covariance Matrices”
+(with Tingguo Zheng). “Score-Driven Time-Varying Parameter VAR Models”
+(with Tingguo Zheng). “House Price Connectedness and Information Transmission”</description>
     </item>
     
   </channel>
