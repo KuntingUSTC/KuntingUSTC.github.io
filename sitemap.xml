@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://KuntingUSTC.github.io/about/</loc>
-    <lastmod>2022-01-25T14:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://KuntingUSTC.github.io/docs/about-me/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://KuntingUSTC.github.io/docs/experience/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://KuntingUSTC.github.io/docs/research/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://KuntingUSTC.github.io/docs/links/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KuntingUSTC.github.io/docs/research/</loc>
+    <loc>https://KuntingUSTC.github.io/docs/miscellaneous/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://KuntingUSTC.github.io/about/</loc>
+    <lastmod>2022-01-25T14:00:00+00:00</lastmod>
   </url><url>
     <loc>https://KuntingUSTC.github.io/home/about-me/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
