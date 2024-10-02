@@ -36,7 +36,7 @@ section {
 
 /* Structure */
 html {
-	font-size: 170%;
+	font-size: 100%;
 	-ms-text-size-adjust: none;
 	-webkit-text-size-adjust: none;
 	-webkit-font-smoothing: antialiased; /* 用于 WebKit 浏览器的字体抗锯齿效果 */
@@ -58,7 +58,7 @@ body {
 .container {
     position: relative;
     width: 100%;
-    max-width: 2620px; /* 容器全屏 */
+    max-width: 1610px; /* 容器全屏 */
     margin: 5px auto;
 }
 
