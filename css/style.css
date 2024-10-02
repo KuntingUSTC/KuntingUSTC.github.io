@@ -199,11 +199,11 @@ h7 {
 
 a {
 	color: #000;
-	text-decoration: none;
 }
 
 a:hover {
 	color: #CC0033;
+	text-decoration: underline;
 }
 
 hr {
@@ -221,12 +221,14 @@ b,
 strong {
 	font: inherit;
 	font-weight: 700;
+	color: #4169E1;
 }
 
 i,
 em {
 	font: inherit;
 	font-style: italic;
+	font-family: "Times New Roman", serif;
 }
 
 ol,
@@ -426,8 +428,8 @@ select {
 }
 
 .logo__title {
-	font-size: 40px;
-	font-size: 2.5rem;
+	font-size: 36px;
+	font-size: 2.3rem;
 	font-weight: 700;
 	line-height: 1;
 	color: #000;
@@ -527,6 +529,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	font-size: 1.125rem;
 	color: #fff;
 	text-transform: uppercase;
+	text-decoration: none;
 }
 
 .menu__link:hover {
